@@ -1,0 +1,26 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: progress
+    // Document ID: shared
+    // Fields:
+    //   - checks: map (optional) - Map of day keys to check status
+    //
+    // ===============================================================
+
+    function isValidProgress(data) {
+      return !('checks' in data) || data.checks is map;
+    }
+
+    match /progress/{docId} {
+      // Allow unauthenticated access as requested by the user
+      allow read: if true;
+      allow create: if isValidProgress(request.resource.data);
+      allow update: if isValidProgress(request.resource.data);
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entities": {
+    "SharedProgress": {
+      "title": "SharedProgress",
+      "description": "The shared reading progress for both users",
+      "type": "object",
+      "properties": {
+        "checks": {
+          "type": "object",
+          "description": "Map of day keys to check status. Key format: 'DD/MMM-YYYY'. Value is an object with 'blue' and 'pink' booleans."
+        }
+      }
+    }
+  },
+  "firestore": {
+    "progress/{docId}": {
+      "schema": "SharedProgress",
+      "description": "The single document storing all progress. Typically docId is 'shared'."
+    }
+  }
+}

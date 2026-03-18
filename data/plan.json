@@ -1,0 +1,3132 @@
+[
+  {
+    "date": "15/mar",
+    "reading": "Mt 1-2",
+    "year": 1
+  },
+  {
+    "date": "16/mar",
+    "reading": "Mt 3-4",
+    "year": 1
+  },
+  {
+    "date": "17/mar",
+    "reading": "Mt 5-6",
+    "year": 1
+  },
+  {
+    "date": "18/mar",
+    "reading": "Mt 7-8",
+    "year": 1
+  },
+  {
+    "date": "19/mar",
+    "reading": "Mt 9-10",
+    "year": 1
+  },
+  {
+    "date": "20/mar",
+    "reading": "Mt 11-12",
+    "year": 1
+  },
+  {
+    "date": "21/mar",
+    "reading": "Mt 13-14",
+    "year": 1
+  },
+  {
+    "date": "22/mar",
+    "reading": "Mt 15-16",
+    "year": 1
+  },
+  {
+    "date": "23/mar",
+    "reading": "Mt 17-18",
+    "year": 1
+  },
+  {
+    "date": "24/mar",
+    "reading": "Mt 19-20",
+    "year": 1
+  },
+  {
+    "date": "25/mar",
+    "reading": "Mt 21-22",
+    "year": 1
+  },
+  {
+    "date": "26/mar",
+    "reading": "Mt 23-24",
+    "year": 1
+  },
+  {
+    "date": "27/mar",
+    "reading": "Mt 25-26",
+    "year": 1
+  },
+  {
+    "date": "28/mar",
+    "reading": "Mt 27-28",
+    "year": 1
+  },
+  {
+    "date": "29/mar",
+    "reading": "Mc 1-2",
+    "year": 1
+  },
+  {
+    "date": "30/mar",
+    "reading": "Mc 3-4",
+    "year": 1
+  },
+  {
+    "date": "31/mar",
+    "reading": "Mc 5-6",
+    "year": 1
+  },
+  {
+    "date": "01/abr",
+    "reading": "Mc 7-8",
+    "year": 1
+  },
+  {
+    "date": "02/abr",
+    "reading": "Mc 9-10",
+    "year": 1
+  },
+  {
+    "date": "03/abr",
+    "reading": "Mc 11-12",
+    "year": 1
+  },
+  {
+    "date": "04/abr",
+    "reading": "Mc 13-14",
+    "year": 1
+  },
+  {
+    "date": "05/abr",
+    "reading": "Mc 15-16",
+    "year": 1
+  },
+  {
+    "date": "06/abr",
+    "reading": "Lc 1-2",
+    "year": 1
+  },
+  {
+    "date": "07/abr",
+    "reading": "Lc 3-4",
+    "year": 1
+  },
+  {
+    "date": "08/abr",
+    "reading": "Lc 5-6",
+    "year": 1
+  },
+  {
+    "date": "09/abr",
+    "reading": "Lc 7-8",
+    "year": 1
+  },
+  {
+    "date": "10/abr",
+    "reading": "Lc 9-10",
+    "year": 1
+  },
+  {
+    "date": "11/abr",
+    "reading": "Lc 11-12",
+    "year": 1
+  },
+  {
+    "date": "12/abr",
+    "reading": "Lc 13-14",
+    "year": 1
+  },
+  {
+    "date": "13/abr",
+    "reading": "Lc 15-16",
+    "year": 1
+  },
+  {
+    "date": "14/abr",
+    "reading": "Lc 17-18",
+    "year": 1
+  },
+  {
+    "date": "15/abr",
+    "reading": "Lc 19-20",
+    "year": 1
+  },
+  {
+    "date": "16/abr",
+    "reading": "Lc 21-22",
+    "year": 1
+  },
+  {
+    "date": "17/abr",
+    "reading": "Lc 23-24",
+    "year": 1
+  },
+  {
+    "date": "18/abr",
+    "reading": "Jo 1-2",
+    "year": 1
+  },
+  {
+    "date": "19/abr",
+    "reading": "Jo 3-4",
+    "year": 1
+  },
+  {
+    "date": "20/abr",
+    "reading": "Jo 5-6",
+    "year": 1
+  },
+  {
+    "date": "21/abr",
+    "reading": "Jo 7-8",
+    "year": 1
+  },
+  {
+    "date": "22/abr",
+    "reading": "Jo 9-10",
+    "year": 1
+  },
+  {
+    "date": "23/abr",
+    "reading": "Jo 11-12",
+    "year": 1
+  },
+  {
+    "date": "24/abr",
+    "reading": "Jo 13-14",
+    "year": 1
+  },
+  {
+    "date": "25/abr",
+    "reading": "Jo 15-17",
+    "year": 1
+  },
+  {
+    "date": "26/abr",
+    "reading": "Jo 18-19",
+    "year": 1
+  },
+  {
+    "date": "27/abr",
+    "reading": "Jo 20-21",
+    "year": 1
+  },
+  {
+    "date": "28/abr",
+    "reading": "Gn 1-2",
+    "year": 1
+  },
+  {
+    "date": "29/abr",
+    "reading": "Gn 3-4",
+    "year": 1
+  },
+  {
+    "date": "30/abr",
+    "reading": "Gn 5-6",
+    "year": 1
+  },
+  {
+    "date": "01/mai",
+    "reading": "Gn 7-8",
+    "year": 1
+  },
+  {
+    "date": "02/mai",
+    "reading": "Gn 9-10",
+    "year": 1
+  },
+  {
+    "date": "03/mai",
+    "reading": "Gn 11-12",
+    "year": 1
+  },
+  {
+    "date": "04/mai",
+    "reading": "Gn 13-14",
+    "year": 1
+  },
+  {
+    "date": "05/mai",
+    "reading": "Gn 15-17",
+    "year": 1
+  },
+  {
+    "date": "06/mai",
+    "reading": "Gn 18-19",
+    "year": 1
+  },
+  {
+    "date": "07/mai",
+    "reading": "Gn 20-21",
+    "year": 1
+  },
+  {
+    "date": "08/mai",
+    "reading": "Gn 22-23",
+    "year": 1
+  },
+  {
+    "date": "09/mai",
+    "reading": "Gn 24",
+    "year": 1
+  },
+  {
+    "date": "10/mai",
+    "reading": "Gn 25-26",
+    "year": 1
+  },
+  {
+    "date": "11/mai",
+    "reading": "Gn 27-28",
+    "year": 1
+  },
+  {
+    "date": "12/mai",
+    "reading": "Gn 29-30",
+    "year": 1
+  },
+  {
+    "date": "13/mai",
+    "reading": "Gn 31",
+    "year": 1
+  },
+  {
+    "date": "14/mai",
+    "reading": "Gn 32-33",
+    "year": 1
+  },
+  {
+    "date": "15/mai",
+    "reading": "Gn 34-35",
+    "year": 1
+  },
+  {
+    "date": "16/mai",
+    "reading": "Gn 36",
+    "year": 1
+  },
+  {
+    "date": "17/mai",
+    "reading": "Gn 37-38",
+    "year": 1
+  },
+  {
+    "date": "18/mai",
+    "reading": "Gn 39-40",
+    "year": 1
+  },
+  {
+    "date": "19/mai",
+    "reading": "Gn 41",
+    "year": 1
+  },
+  {
+    "date": "20/mai",
+    "reading": "Gn 42-43",
+    "year": 1
+  },
+  {
+    "date": "21/mai",
+    "reading": "Gn 44-45",
+    "year": 1
+  },
+  {
+    "date": "22/mai",
+    "reading": "Gn 46-47",
+    "year": 1
+  },
+  {
+    "date": "23/mai",
+    "reading": "Gn 48-50",
+    "year": 1
+  },
+  {
+    "date": "24/mai",
+    "reading": "Ex 1-2",
+    "year": 1
+  },
+  {
+    "date": "25/mai",
+    "reading": "Ex 3-4",
+    "year": 1
+  },
+  {
+    "date": "26/mai",
+    "reading": "Ex 5-6",
+    "year": 1
+  },
+  {
+    "date": "27/mai",
+    "reading": "Ex 7-8",
+    "year": 1
+  },
+  {
+    "date": "28/mai",
+    "reading": "Ex 9-10",
+    "year": 1
+  },
+  {
+    "date": "29/mai",
+    "reading": "Ex 11-12",
+    "year": 1
+  },
+  {
+    "date": "30/mai",
+    "reading": "Ex 13-14",
+    "year": 1
+  },
+  {
+    "date": "31/mai",
+    "reading": "Ex 15-16",
+    "year": 1
+  },
+  {
+    "date": "01/jun",
+    "reading": "Ex 17-18",
+    "year": 1
+  },
+  {
+    "date": "02/jun",
+    "reading": "Ex 19-20",
+    "year": 1
+  },
+  {
+    "date": "03/jun",
+    "reading": "Ex 21-22",
+    "year": 1
+  },
+  {
+    "date": "04/jun",
+    "reading": "Ex 23-24",
+    "year": 1
+  },
+  {
+    "date": "05/jun",
+    "reading": "Ex 25-26",
+    "year": 1
+  },
+  {
+    "date": "06/jun",
+    "reading": "Ex 27-28",
+    "year": 1
+  },
+  {
+    "date": "07/jun",
+    "reading": "Ex 29-30",
+    "year": 1
+  },
+  {
+    "date": "08/jun",
+    "reading": "Ex 31-32",
+    "year": 1
+  },
+  {
+    "date": "09/jun",
+    "reading": "Ex 33-34",
+    "year": 1
+  },
+  {
+    "date": "10/jun",
+    "reading": "Ex 35-36",
+    "year": 1
+  },
+  {
+    "date": "11/jun",
+    "reading": "Ex 37-38",
+    "year": 1
+  },
+  {
+    "date": "12/jun",
+    "reading": "Ex 39-40",
+    "year": 1
+  },
+  {
+    "date": "13/jun",
+    "reading": "Lv 1-2",
+    "year": 1
+  },
+  {
+    "date": "14/jun",
+    "reading": "Lv 3-4",
+    "year": 1
+  },
+  {
+    "date": "15/jun",
+    "reading": "Lv 5-6",
+    "year": 1
+  },
+  {
+    "date": "16/jun",
+    "reading": "Lv 7-8",
+    "year": 1
+  },
+  {
+    "date": "17/jun",
+    "reading": "Lv 9-10",
+    "year": 1
+  },
+  {
+    "date": "18/jun",
+    "reading": "Lv 11-12",
+    "year": 1
+  },
+  {
+    "date": "19/jun",
+    "reading": "Lv 13",
+    "year": 1
+  },
+  {
+    "date": "20/jun",
+    "reading": "Lv 14",
+    "year": 1
+  },
+  {
+    "date": "21/jun",
+    "reading": "Lv 15-16",
+    "year": 1
+  },
+  {
+    "date": "22/jun",
+    "reading": "Lv 17-18",
+    "year": 1
+  },
+  {
+    "date": "23/jun",
+    "reading": "Lv 19-20",
+    "year": 1
+  },
+  {
+    "date": "24/jun",
+    "reading": "Lv 21-22",
+    "year": 1
+  },
+  {
+    "date": "25/jun",
+    "reading": "Lv 23-24",
+    "year": 1
+  },
+  {
+    "date": "26/jun",
+    "reading": "Lv 25",
+    "year": 1
+  },
+  {
+    "date": "27/jun",
+    "reading": "Lv 26",
+    "year": 1
+  },
+  {
+    "date": "28/jun",
+    "reading": "Lv 27",
+    "year": 1
+  },
+  {
+    "date": "29/jun",
+    "reading": "Nm 1",
+    "year": 1
+  },
+  {
+    "date": "30/jun",
+    "reading": "Nm 2",
+    "year": 1
+  },
+  {
+    "date": "01/jul",
+    "reading": "Nm 3",
+    "year": 1
+  },
+  {
+    "date": "02/jul",
+    "reading": "Nm 4",
+    "year": 1
+  },
+  {
+    "date": "03/jul",
+    "reading": "Nm 5",
+    "year": 1
+  },
+  {
+    "date": "04/jul",
+    "reading": "Nm 6",
+    "year": 1
+  },
+  {
+    "date": "05/jul",
+    "reading": "Nm 7",
+    "year": 1
+  },
+  {
+    "date": "06/jul",
+    "reading": "Nm 8",
+    "year": 1
+  },
+  {
+    "date": "07/jul",
+    "reading": "Nm 9",
+    "year": 1
+  },
+  {
+    "date": "08/jul",
+    "reading": "Nm 10",
+    "year": 1
+  },
+  {
+    "date": "09/jul",
+    "reading": "Nm 11",
+    "year": 1
+  },
+  {
+    "date": "10/jul",
+    "reading": "Nm 12",
+    "year": 1
+  },
+  {
+    "date": "11/jul",
+    "reading": "Nm 13",
+    "year": 1
+  },
+  {
+    "date": "12/jul",
+    "reading": "Nm 14",
+    "year": 1
+  },
+  {
+    "date": "13/jul",
+    "reading": "Nm 15",
+    "year": 1
+  },
+  {
+    "date": "14/jul",
+    "reading": "Nm 16",
+    "year": 1
+  },
+  {
+    "date": "15/jul",
+    "reading": "Nm 17",
+    "year": 1
+  },
+  {
+    "date": "16/jul",
+    "reading": "Nm 18",
+    "year": 1
+  },
+  {
+    "date": "17/jul",
+    "reading": "Nm 19",
+    "year": 1
+  },
+  {
+    "date": "18/jul",
+    "reading": "Nm 20",
+    "year": 1
+  },
+  {
+    "date": "19/jul",
+    "reading": "Nm 21",
+    "year": 1
+  },
+  {
+    "date": "20/jul",
+    "reading": "Nm 22",
+    "year": 1
+  },
+  {
+    "date": "21/jul",
+    "reading": "Nm 23",
+    "year": 1
+  },
+  {
+    "date": "22/jul",
+    "reading": "Nm 24-25",
+    "year": 1
+  },
+  {
+    "date": "23/jul",
+    "reading": "Nm 26",
+    "year": 1
+  },
+  {
+    "date": "24/jul",
+    "reading": "Nm 27",
+    "year": 1
+  },
+  {
+    "date": "25/jul",
+    "reading": "Nm 28",
+    "year": 1
+  },
+  {
+    "date": "26/jul",
+    "reading": "Nm 29-30",
+    "year": 1
+  },
+  {
+    "date": "27/jul",
+    "reading": "Nm 31",
+    "year": 1
+  },
+  {
+    "date": "28/jul",
+    "reading": "Nm 32",
+    "year": 1
+  },
+  {
+    "date": "29/jul",
+    "reading": "Nm 33",
+    "year": 1
+  },
+  {
+    "date": "30/jul",
+    "reading": "Nm 34",
+    "year": 1
+  },
+  {
+    "date": "31/jul",
+    "reading": "Nm 35-36",
+    "year": 1
+  },
+  {
+    "date": "01/ago",
+    "reading": "Dt 1-2",
+    "year": 1
+  },
+  {
+    "date": "02/ago",
+    "reading": "Dt 3-4",
+    "year": 1
+  },
+  {
+    "date": "03/ago",
+    "reading": "Dt 5-6",
+    "year": 1
+  },
+  {
+    "date": "04/ago",
+    "reading": "Dt 7-8",
+    "year": 1
+  },
+  {
+    "date": "05/ago",
+    "reading": "Dt 9-10",
+    "year": 1
+  },
+  {
+    "date": "06/ago",
+    "reading": "Dt 11-12",
+    "year": 1
+  },
+  {
+    "date": "07/ago",
+    "reading": "Dt 13-14",
+    "year": 1
+  },
+  {
+    "date": "08/ago",
+    "reading": "Dt 15-16",
+    "year": 1
+  },
+  {
+    "date": "09/ago",
+    "reading": "Dt 17-18",
+    "year": 1
+  },
+  {
+    "date": "10/ago",
+    "reading": "Dt 19-20",
+    "year": 1
+  },
+  {
+    "date": "11/ago",
+    "reading": "Dt 21-22",
+    "year": 1
+  },
+  {
+    "date": "12/ago",
+    "reading": "Dt 23-24",
+    "year": 1
+  },
+  {
+    "date": "13/ago",
+    "reading": "Dt 25-27",
+    "year": 1
+  },
+  {
+    "date": "14/ago",
+    "reading": "Dt 28",
+    "year": 1
+  },
+  {
+    "date": "15/ago",
+    "reading": "Dt 29-30",
+    "year": 1
+  },
+  {
+    "date": "16/ago",
+    "reading": "Dt 31",
+    "year": 1
+  },
+  {
+    "date": "17/ago",
+    "reading": "Dt 32",
+    "year": 1
+  },
+  {
+    "date": "18/ago",
+    "reading": "Dt 33-34",
+    "year": 1
+  },
+  {
+    "date": "19/ago",
+    "reading": "Js 1-2",
+    "year": 1
+  },
+  {
+    "date": "20/ago",
+    "reading": "Js 3-4",
+    "year": 1
+  },
+  {
+    "date": "21/ago",
+    "reading": "Js 5-6",
+    "year": 1
+  },
+  {
+    "date": "22/ago",
+    "reading": "Js 7-8",
+    "year": 1
+  },
+  {
+    "date": "23/ago",
+    "reading": "Js 9-10",
+    "year": 1
+  },
+  {
+    "date": "24/ago",
+    "reading": "Js 11-12",
+    "year": 1
+  },
+  {
+    "date": "25/ago",
+    "reading": "Js 13-14",
+    "year": 1
+  },
+  {
+    "date": "26/ago",
+    "reading": "Js 15",
+    "year": 1
+  },
+  {
+    "date": "27/ago",
+    "reading": "Js 16-18",
+    "year": 1
+  },
+  {
+    "date": "28/ago",
+    "reading": "Js 19-20",
+    "year": 1
+  },
+  {
+    "date": "29/ago",
+    "reading": "Js 21-22",
+    "year": 1
+  },
+  {
+    "date": "30/ago",
+    "reading": "Js 23-24",
+    "year": 1
+  },
+  {
+    "date": "31/ago",
+    "reading": "Jz 1-2",
+    "year": 1
+  },
+  {
+    "date": "01/set",
+    "reading": "Jz 3-4",
+    "year": 1
+  },
+  {
+    "date": "02/set",
+    "reading": "Jz 5-6",
+    "year": 1
+  },
+  {
+    "date": "03/set",
+    "reading": "Jz 7-8",
+    "year": 1
+  },
+  {
+    "date": "04/set",
+    "reading": "Jz 9",
+    "year": 1
+  },
+  {
+    "date": "05/set",
+    "reading": "Jz 10-11",
+    "year": 1
+  },
+  {
+    "date": "06/set",
+    "reading": "Jz 12-13",
+    "year": 1
+  },
+  {
+    "date": "07/set",
+    "reading": "Jz 14-15",
+    "year": 1
+  },
+  {
+    "date": "08/set",
+    "reading": "Jz 16-17",
+    "year": 1
+  },
+  {
+    "date": "09/set",
+    "reading": "Jz 18-19",
+    "year": 1
+  },
+  {
+    "date": "10/set",
+    "reading": "Jz 20-21",
+    "year": 1
+  },
+  {
+    "date": "11/set",
+    "reading": "Rt 1-2",
+    "year": 1
+  },
+  {
+    "date": "12/set",
+    "reading": "Rt 3-4",
+    "year": 1
+  },
+  {
+    "date": "13/set",
+    "reading": "1Sm 1-2",
+    "year": 1
+  },
+  {
+    "date": "14/set",
+    "reading": "1Sm 3-4",
+    "year": 1
+  },
+  {
+    "date": "15/set",
+    "reading": "1Sm 5-7",
+    "year": 1
+  },
+  {
+    "date": "16/set",
+    "reading": "1Sm 8-9",
+    "year": 1
+  },
+  {
+    "date": "17/set",
+    "reading": "1Sm 10-11",
+    "year": 1
+  },
+  {
+    "date": "18/set",
+    "reading": "1Sm 12-13",
+    "year": 1
+  },
+  {
+    "date": "19/set",
+    "reading": "1Sm 14",
+    "year": 1
+  },
+  {
+    "date": "20/set",
+    "reading": "1Sm 15-16",
+    "year": 1
+  },
+  {
+    "date": "21/set",
+    "reading": "1Sm 17",
+    "year": 1
+  },
+  {
+    "date": "22/set",
+    "reading": "1Sm 18-19",
+    "year": 1
+  },
+  {
+    "date": "23/set",
+    "reading": "1Sm 20-21",
+    "year": 1
+  },
+  {
+    "date": "24/set",
+    "reading": "1Sm 22-23",
+    "year": 1
+  },
+  {
+    "date": "25/set",
+    "reading": "1Sm 24-25",
+    "year": 1
+  },
+  {
+    "date": "26/set",
+    "reading": "1Sm 26-28",
+    "year": 1
+  },
+  {
+    "date": "27/set",
+    "reading": "1Sm 29-31",
+    "year": 1
+  },
+  {
+    "date": "28/set",
+    "reading": "2Sm 1-2",
+    "year": 1
+  },
+  {
+    "date": "29/set",
+    "reading": "2Sm 3-4",
+    "year": 1
+  },
+  {
+    "date": "30/set",
+    "reading": "2Sm 5-6",
+    "year": 1
+  },
+  {
+    "date": "01/out",
+    "reading": "2Sm 7-8",
+    "year": 1
+  },
+  {
+    "date": "02/out",
+    "reading": "2Sm 9-10",
+    "year": 1
+  },
+  {
+    "date": "03/out",
+    "reading": "2Sm 11-12",
+    "year": 1
+  },
+  {
+    "date": "04/out",
+    "reading": "2Sm 13-14",
+    "year": 1
+  },
+  {
+    "date": "05/out",
+    "reading": "2Sm 15-16",
+    "year": 1
+  },
+  {
+    "date": "06/out",
+    "reading": "2Sm 17-18",
+    "year": 1
+  },
+  {
+    "date": "07/out",
+    "reading": "2Sm 19-20",
+    "year": 1
+  },
+  {
+    "date": "08/out",
+    "reading": "2Sm 21-22",
+    "year": 1
+  },
+  {
+    "date": "09/out",
+    "reading": "2Sm 23-24",
+    "year": 1
+  },
+  {
+    "date": "10/out",
+    "reading": "1Rs 1",
+    "year": 1
+  },
+  {
+    "date": "11/out",
+    "reading": "1Rs 2",
+    "year": 1
+  },
+  {
+    "date": "12/out",
+    "reading": "1Rs 3-4",
+    "year": 1
+  },
+  {
+    "date": "13/out",
+    "reading": "1Rs 5-6",
+    "year": 1
+  },
+  {
+    "date": "14/out",
+    "reading": "1Rs 7",
+    "year": 1
+  },
+  {
+    "date": "15/out",
+    "reading": "1Rs 8",
+    "year": 1
+  },
+  {
+    "date": "16/out",
+    "reading": "1Rs 9-10",
+    "year": 1
+  },
+  {
+    "date": "17/out",
+    "reading": "1Rs 11-12",
+    "year": 1
+  },
+  {
+    "date": "18/out",
+    "reading": "1Rs 13-14",
+    "year": 1
+  },
+  {
+    "date": "19/out",
+    "reading": "1Rs 15-16",
+    "year": 1
+  },
+  {
+    "date": "20/out",
+    "reading": "1Rs 17-18",
+    "year": 1
+  },
+  {
+    "date": "21/out",
+    "reading": "1Rs 19-20",
+    "year": 1
+  },
+  {
+    "date": "22/out",
+    "reading": "1Rs 21-22",
+    "year": 1
+  },
+  {
+    "date": "23/out",
+    "reading": "2Rs 1-2",
+    "year": 1
+  },
+  {
+    "date": "24/out",
+    "reading": "2Rs 3-4",
+    "year": 1
+  },
+  {
+    "date": "25/out",
+    "reading": "2Rs 5-6",
+    "year": 1
+  },
+  {
+    "date": "26/out",
+    "reading": "2Rs 7-8",
+    "year": 1
+  },
+  {
+    "date": "27/out",
+    "reading": "2Rs 9-10",
+    "year": 1
+  },
+  {
+    "date": "28/out",
+    "reading": "2Rs 11-12",
+    "year": 1
+  },
+  {
+    "date": "29/out",
+    "reading": "2Rs 13-14",
+    "year": 1
+  },
+  {
+    "date": "30/out",
+    "reading": "2Rs 15-16",
+    "year": 1
+  },
+  {
+    "date": "31/out",
+    "reading": "2Rs 17",
+    "year": 1
+  },
+  {
+    "date": "01/nov",
+    "reading": "2Rs 18-19",
+    "year": 1
+  },
+  {
+    "date": "02/nov",
+    "reading": "2Rs 20-21",
+    "year": 1
+  },
+  {
+    "date": "03/nov",
+    "reading": "2Rs 22-23",
+    "year": 1
+  },
+  {
+    "date": "04/nov",
+    "reading": "2Rs 24-25",
+    "year": 1
+  },
+  {
+    "date": "05/nov",
+    "reading": "1Cr 1",
+    "year": 1
+  },
+  {
+    "date": "06/nov",
+    "reading": "1Cr 2",
+    "year": 1
+  },
+  {
+    "date": "07/nov",
+    "reading": "1Cr 3-5",
+    "year": 1
+  },
+  {
+    "date": "08/nov",
+    "reading": "1Cr 6",
+    "year": 1
+  },
+  {
+    "date": "09/nov",
+    "reading": "1Cr 7-8",
+    "year": 1
+  },
+  {
+    "date": "10/nov",
+    "reading": "1Cr 9-10",
+    "year": 1
+  },
+  {
+    "date": "11/nov",
+    "reading": "1Cr 11-12",
+    "year": 1
+  },
+  {
+    "date": "12/nov",
+    "reading": "1Cr 13-15",
+    "year": 1
+  },
+  {
+    "date": "13/nov",
+    "reading": "1Cr 16-18",
+    "year": 1
+  },
+  {
+    "date": "14/nov",
+    "reading": "1Cr 19-21",
+    "year": 1
+  },
+  {
+    "date": "15/nov",
+    "reading": "1Cr 22-23",
+    "year": 1
+  },
+  {
+    "date": "16/nov",
+    "reading": "1Cr 24-25",
+    "year": 1
+  },
+  {
+    "date": "17/nov",
+    "reading": "1Cr 26-27",
+    "year": 1
+  },
+  {
+    "date": "18/nov",
+    "reading": "1Cr 28-29",
+    "year": 1
+  },
+  {
+    "date": "19/nov",
+    "reading": "2Cr 1-3",
+    "year": 1
+  },
+  {
+    "date": "20/nov",
+    "reading": "2Cr 4-5",
+    "year": 1
+  },
+  {
+    "date": "21/nov",
+    "reading": "2Cr 6-7",
+    "year": 1
+  },
+  {
+    "date": "22/nov",
+    "reading": "2Cr 8-10",
+    "year": 1
+  },
+  {
+    "date": "23/nov",
+    "reading": "2Cr 11-13",
+    "year": 1
+  },
+  {
+    "date": "24/nov",
+    "reading": "2Cr 14-16",
+    "year": 1
+  },
+  {
+    "date": "25/nov",
+    "reading": "2Cr 17-19",
+    "year": 1
+  },
+  {
+    "date": "26/nov",
+    "reading": "2Cr 20-21",
+    "year": 1
+  },
+  {
+    "date": "27/nov",
+    "reading": "2Cr 22-24",
+    "year": 1
+  },
+  {
+    "date": "28/nov",
+    "reading": "2Cr 25-27",
+    "year": 1
+  },
+  {
+    "date": "29/nov",
+    "reading": "2Cr 28-29",
+    "year": 1
+  },
+  {
+    "date": "30/nov",
+    "reading": "2Cr 30-31",
+    "year": 1
+  },
+  {
+    "date": "01/dez",
+    "reading": "2Cr 32",
+    "year": 1
+  },
+  {
+    "date": "02/dez",
+    "reading": "2Cr 33",
+    "year": 1
+  },
+  {
+    "date": "03/dez",
+    "reading": "2Cr 34",
+    "year": 1
+  },
+  {
+    "date": "04/dez",
+    "reading": "2Cr 35",
+    "year": 1
+  },
+  {
+    "date": "05/dez",
+    "reading": "2Cr 36",
+    "year": 1
+  },
+  {
+    "date": "06/dez",
+    "reading": "Ed 1",
+    "year": 1
+  },
+  {
+    "date": "07/dez",
+    "reading": "Ed 2: 1-35",
+    "year": 1
+  },
+  {
+    "date": "08/dez",
+    "reading": "Ed 2: 35-70",
+    "year": 1
+  },
+  {
+    "date": "09/dez",
+    "reading": "Ed 3",
+    "year": 1
+  },
+  {
+    "date": "10/dez",
+    "reading": "Ed 4",
+    "year": 1
+  },
+  {
+    "date": "11/dez",
+    "reading": "Ed 5",
+    "year": 1
+  },
+  {
+    "date": "12/dez",
+    "reading": "Ed 6",
+    "year": 1
+  },
+  {
+    "date": "13/dez",
+    "reading": "Ed 7",
+    "year": 1
+  },
+  {
+    "date": "14/dez",
+    "reading": "Ed 8",
+    "year": 1
+  },
+  {
+    "date": "15/dez",
+    "reading": "Ed 9",
+    "year": 1
+  },
+  {
+    "date": "16/dez",
+    "reading": "Ed 10",
+    "year": 1
+  },
+  {
+    "date": "17/dez",
+    "reading": "Ne 1-2",
+    "year": 1
+  },
+  {
+    "date": "18/dez",
+    "reading": "Ne 3",
+    "year": 1
+  },
+  {
+    "date": "19/dez",
+    "reading": "Ne 4",
+    "year": 1
+  },
+  {
+    "date": "20/dez",
+    "reading": "Ne 5",
+    "year": 1
+  },
+  {
+    "date": "21/dez",
+    "reading": "Ne 6",
+    "year": 1
+  },
+  {
+    "date": "22/dez",
+    "reading": "Ne 7: 1-37",
+    "year": 1
+  },
+  {
+    "date": "23/dez",
+    "reading": "Ne 7: 38-73",
+    "year": 1
+  },
+  {
+    "date": "24/dez",
+    "reading": "Ne 8",
+    "year": 1
+  },
+  {
+    "date": "25/dez",
+    "reading": "Ne 9",
+    "year": 1
+  },
+  {
+    "date": "26/dez",
+    "reading": "Ne 10",
+    "year": 1
+  },
+  {
+    "date": "27/dez",
+    "reading": "Ne 11",
+    "year": 1
+  },
+  {
+    "date": "28/dez",
+    "reading": "Ne 12",
+    "year": 1
+  },
+  {
+    "date": "29/dez",
+    "reading": "Ne 13",
+    "year": 1
+  },
+  {
+    "date": "30/dez",
+    "reading": "Et 1",
+    "year": 1
+  },
+  {
+    "date": "31/dez",
+    "reading": "Et 2",
+    "year": 1
+  },
+  {
+    "date": "01/jan",
+    "reading": "Et 5-6",
+    "year": 2
+  },
+  {
+    "date": "02/jan",
+    "reading": "Et 7-8",
+    "year": 2
+  },
+  {
+    "date": "03/jan",
+    "reading": "Et 9-10",
+    "year": 2
+  },
+  {
+    "date": "04/jan",
+    "reading": "Jó 1-2",
+    "year": 2
+  },
+  {
+    "date": "05/jan",
+    "reading": "Jó 3-4",
+    "year": 2
+  },
+  {
+    "date": "06/jan",
+    "reading": "Jó 5-6",
+    "year": 2
+  },
+  {
+    "date": "07/jan",
+    "reading": "Jó 7-8",
+    "year": 2
+  },
+  {
+    "date": "08/jan",
+    "reading": "Jó 9-10",
+    "year": 2
+  },
+  {
+    "date": "09/jan",
+    "reading": "Jó 11-12",
+    "year": 2
+  },
+  {
+    "date": "10/jan",
+    "reading": "Jó 13-14",
+    "year": 2
+  },
+  {
+    "date": "11/jan",
+    "reading": "Jó 15-16",
+    "year": 2
+  },
+  {
+    "date": "12/jan",
+    "reading": "Jó 17-18",
+    "year": 2
+  },
+  {
+    "date": "13/jan",
+    "reading": "Jó 19-20",
+    "year": 2
+  },
+  {
+    "date": "14/jan",
+    "reading": "Jó 21-22",
+    "year": 2
+  },
+  {
+    "date": "15/jan",
+    "reading": "Jó 23-25",
+    "year": 2
+  },
+  {
+    "date": "16/jan",
+    "reading": "Jó 26-27",
+    "year": 2
+  },
+  {
+    "date": "17/jan",
+    "reading": "Jó 28-29",
+    "year": 2
+  },
+  {
+    "date": "18/jan",
+    "reading": "Jó 30",
+    "year": 2
+  },
+  {
+    "date": "19/jan",
+    "reading": "Jó 31",
+    "year": 2
+  },
+  {
+    "date": "20/jan",
+    "reading": "Jó 32-33",
+    "year": 2
+  },
+  {
+    "date": "21/jan",
+    "reading": "Jó 34-35",
+    "year": 2
+  },
+  {
+    "date": "22/jan",
+    "reading": "Jó 36-37",
+    "year": 2
+  },
+  {
+    "date": "23/jan",
+    "reading": "Jó 38",
+    "year": 2
+  },
+  {
+    "date": "24/jan",
+    "reading": "Jó 39-40",
+    "year": 2
+  },
+  {
+    "date": "25/jan",
+    "reading": "Jó 41-42",
+    "year": 2
+  },
+  {
+    "date": "26/jan",
+    "reading": "Sl 1-4",
+    "year": 2
+  },
+  {
+    "date": "27/jan",
+    "reading": "Sl 5-8",
+    "year": 2
+  },
+  {
+    "date": "28/jan",
+    "reading": "Sl 9-10",
+    "year": 2
+  },
+  {
+    "date": "29/jan",
+    "reading": "Sl 11-14",
+    "year": 2
+  },
+  {
+    "date": "30/jan",
+    "reading": "Sl 15-17",
+    "year": 2
+  },
+  {
+    "date": "31/jan",
+    "reading": "Sl 18",
+    "year": 2
+  },
+  {
+    "date": "01/fev",
+    "reading": "Sl 19-21",
+    "year": 2
+  },
+  {
+    "date": "02/fev",
+    "reading": "Sl 22-24",
+    "year": 2
+  },
+  {
+    "date": "03/fev",
+    "reading": "Sl 25-27",
+    "year": 2
+  },
+  {
+    "date": "04/fev",
+    "reading": "Sl 28-30",
+    "year": 2
+  },
+  {
+    "date": "05/fev",
+    "reading": "Sl 31-32",
+    "year": 2
+  },
+  {
+    "date": "06/fev",
+    "reading": "Sl 33-34",
+    "year": 2
+  },
+  {
+    "date": "07/fev",
+    "reading": "Sl 35-36",
+    "year": 2
+  },
+  {
+    "date": "08/fev",
+    "reading": "Sl 37",
+    "year": 2
+  },
+  {
+    "date": "09/fev",
+    "reading": "Sl 38-39",
+    "year": 2
+  },
+  {
+    "date": "10/fev",
+    "reading": "Sl 40-42",
+    "year": 2
+  },
+  {
+    "date": "11/fev",
+    "reading": "Sl 43-45",
+    "year": 2
+  },
+  {
+    "date": "12/fev",
+    "reading": "Sl 46-48",
+    "year": 2
+  },
+  {
+    "date": "13/fev",
+    "reading": "Sl 49-50",
+    "year": 2
+  },
+  {
+    "date": "14/fev",
+    "reading": "Sl 51-54",
+    "year": 2
+  },
+  {
+    "date": "15/fev",
+    "reading": "Sl 55-57",
+    "year": 2
+  },
+  {
+    "date": "16/fev",
+    "reading": "Sl 58-60",
+    "year": 2
+  },
+  {
+    "date": "17/fev",
+    "reading": "Sl 61-64",
+    "year": 2
+  },
+  {
+    "date": "18/fev",
+    "reading": "Sl 65-67",
+    "year": 2
+  },
+  {
+    "date": "19/fev",
+    "reading": "Sl 68",
+    "year": 2
+  },
+  {
+    "date": "20/fev",
+    "reading": "Sl 69",
+    "year": 2
+  },
+  {
+    "date": "21/fev",
+    "reading": "Sl 70-71",
+    "year": 2
+  },
+  {
+    "date": "22/fev",
+    "reading": "Sl 72-73",
+    "year": 2
+  },
+  {
+    "date": "23/fev",
+    "reading": "Sl 74-75",
+    "year": 2
+  },
+  {
+    "date": "24/fev",
+    "reading": "Sl 76-77",
+    "year": 2
+  },
+  {
+    "date": "25/fev",
+    "reading": "Sl 78: 1-36",
+    "year": 2
+  },
+  {
+    "date": "26/fev",
+    "reading": "Sl 78: 37-72",
+    "year": 2
+  },
+  {
+    "date": "27/fev",
+    "reading": "Sl 79-81",
+    "year": 2
+  },
+  {
+    "date": "28/fev",
+    "reading": "Sl 82-84",
+    "year": 2
+  },
+  {
+    "date": "01/mar",
+    "reading": "Sl 85-88",
+    "year": 2
+  },
+  {
+    "date": "02/mar",
+    "reading": "Sl 89",
+    "year": 2
+  },
+  {
+    "date": "03/mar",
+    "reading": "Sl 90-92",
+    "year": 2
+  },
+  {
+    "date": "04/mar",
+    "reading": "Sl 93-95",
+    "year": 2
+  },
+  {
+    "date": "05/mar",
+    "reading": "Sl 96-99",
+    "year": 2
+  },
+  {
+    "date": "06/mar",
+    "reading": "Sl 100-103",
+    "year": 2
+  },
+  {
+    "date": "07/mar",
+    "reading": "Sl 104",
+    "year": 2
+  },
+  {
+    "date": "08/mar",
+    "reading": "Sl 105",
+    "year": 2
+  },
+  {
+    "date": "09/mar",
+    "reading": "Sl 106",
+    "year": 2
+  },
+  {
+    "date": "10/mar",
+    "reading": "Sl 107",
+    "year": 2
+  },
+  {
+    "date": "11/mar",
+    "reading": "Sl 108-109",
+    "year": 2
+  },
+  {
+    "date": "12/mar",
+    "reading": "Sl 110-113",
+    "year": 2
+  },
+  {
+    "date": "13/mar",
+    "reading": "Sl 114-116",
+    "year": 2
+  },
+  {
+    "date": "14/mar",
+    "reading": "Sl 117-118",
+    "year": 2
+  },
+  {
+    "date": "15/mar",
+    "reading": "Sl 119: 1-35",
+    "year": 2
+  },
+  {
+    "date": "16/mar",
+    "reading": "Sl 119: 36-70",
+    "year": 2
+  },
+  {
+    "date": "17/mar",
+    "reading": "Sl 119: 71-105",
+    "year": 2
+  },
+  {
+    "date": "18/mar",
+    "reading": "Sl 119: 106-140",
+    "year": 2
+  },
+  {
+    "date": "19/mar",
+    "reading": "Sl 119: 141-176",
+    "year": 2
+  },
+  {
+    "date": "20/mar",
+    "reading": "Sl 120-124",
+    "year": 2
+  },
+  {
+    "date": "21/mar",
+    "reading": "Sl 125-129",
+    "year": 2
+  },
+  {
+    "date": "22/mar",
+    "reading": "Sl 130-133",
+    "year": 2
+  },
+  {
+    "date": "23/mar",
+    "reading": "Sl 134-135",
+    "year": 2
+  },
+  {
+    "date": "24/mar",
+    "reading": "Sl 136-138",
+    "year": 2
+  },
+  {
+    "date": "25/mar",
+    "reading": "Sl 139-141",
+    "year": 2
+  },
+  {
+    "date": "26/mar",
+    "reading": "Sl 142-144",
+    "year": 2
+  },
+  {
+    "date": "27/mar",
+    "reading": "Sl 145-147",
+    "year": 2
+  },
+  {
+    "date": "28/mar",
+    "reading": "Sl 148-150",
+    "year": 2
+  },
+  {
+    "date": "29/mar",
+    "reading": "Pv 1-2",
+    "year": 2
+  },
+  {
+    "date": "30/mar",
+    "reading": "Pv 3-4",
+    "year": 2
+  },
+  {
+    "date": "31/mar",
+    "reading": "Pv 5-6",
+    "year": 2
+  },
+  {
+    "date": "01/abr",
+    "reading": "Pv 7-8",
+    "year": 2
+  },
+  {
+    "date": "02/abr",
+    "reading": "Pv 9-10",
+    "year": 2
+  },
+  {
+    "date": "03/abr",
+    "reading": "Pv 11-12",
+    "year": 2
+  },
+  {
+    "date": "04/abr",
+    "reading": "Pv 13-14",
+    "year": 2
+  },
+  {
+    "date": "05/abr",
+    "reading": "Pv 15-16",
+    "year": 2
+  },
+  {
+    "date": "06/abr",
+    "reading": "Pv 17-18",
+    "year": 2
+  },
+  {
+    "date": "07/abr",
+    "reading": "Pv 19-20",
+    "year": 2
+  },
+  {
+    "date": "08/abr",
+    "reading": "Pv 21-22",
+    "year": 2
+  },
+  {
+    "date": "09/abr",
+    "reading": "Pv 23-24",
+    "year": 2
+  },
+  {
+    "date": "10/abr",
+    "reading": "Pv 25-26",
+    "year": 2
+  },
+  {
+    "date": "11/abr",
+    "reading": "Pv 27-29",
+    "year": 2
+  },
+  {
+    "date": "12/abr",
+    "reading": "Pv 30-31",
+    "year": 2
+  },
+  {
+    "date": "13/abr",
+    "reading": "Ec 1-3",
+    "year": 2
+  },
+  {
+    "date": "14/abr",
+    "reading": "Ec 4-6",
+    "year": 2
+  },
+  {
+    "date": "15/abr",
+    "reading": "Ec 7-9",
+    "year": 2
+  },
+  {
+    "date": "16/abr",
+    "reading": "Ec 10-12",
+    "year": 2
+  },
+  {
+    "date": "17/abr",
+    "reading": "Ct 1-2",
+    "year": 2
+  },
+  {
+    "date": "18/abr",
+    "reading": "Ct 3-4",
+    "year": 2
+  },
+  {
+    "date": "19/abr",
+    "reading": "Ct 5-6",
+    "year": 2
+  },
+  {
+    "date": "20/abr",
+    "reading": "Ct 7-8",
+    "year": 2
+  },
+  {
+    "date": "21/abr",
+    "reading": "Is 1-2",
+    "year": 2
+  },
+  {
+    "date": "22/abr",
+    "reading": "Is 3-4",
+    "year": 2
+  },
+  {
+    "date": "23/abr",
+    "reading": "Is 5-6",
+    "year": 2
+  },
+  {
+    "date": "24/abr",
+    "reading": "Is 7-8",
+    "year": 2
+  },
+  {
+    "date": "25/abr",
+    "reading": "Is 9-10",
+    "year": 2
+  },
+  {
+    "date": "26/abr",
+    "reading": "Is 11-13",
+    "year": 2
+  },
+  {
+    "date": "27/abr",
+    "reading": "Is 14-15",
+    "year": 2
+  },
+  {
+    "date": "28/abr",
+    "reading": "Is 16-18",
+    "year": 2
+  },
+  {
+    "date": "29/abr",
+    "reading": "Is 19-21",
+    "year": 2
+  },
+  {
+    "date": "30/abr",
+    "reading": "Is 22-23",
+    "year": 2
+  },
+  {
+    "date": "01/mai",
+    "reading": "Is 24-25",
+    "year": 2
+  },
+  {
+    "date": "02/mai",
+    "reading": "Is 26-27",
+    "year": 2
+  },
+  {
+    "date": "03/mai",
+    "reading": "Is 28-29",
+    "year": 2
+  },
+  {
+    "date": "04/mai",
+    "reading": "Is 30-31",
+    "year": 2
+  },
+  {
+    "date": "05/mai",
+    "reading": "Is 32-33",
+    "year": 2
+  },
+  {
+    "date": "06/mai",
+    "reading": "Is 34-36",
+    "year": 2
+  },
+  {
+    "date": "07/mai",
+    "reading": "Is 37",
+    "year": 2
+  },
+  {
+    "date": "08/mai",
+    "reading": "Is 38-39",
+    "year": 2
+  },
+  {
+    "date": "09/mai",
+    "reading": "Is 42-43",
+    "year": 2
+  },
+  {
+    "date": "10/mai",
+    "reading": "Is 44-45",
+    "year": 2
+  },
+  {
+    "date": "11/mai",
+    "reading": "Is 46-48",
+    "year": 2
+  },
+  {
+    "date": "12/mai",
+    "reading": "Is 49-50",
+    "year": 2
+  },
+  {
+    "date": "13/mai",
+    "reading": "Is 51-52",
+    "year": 2
+  },
+  {
+    "date": "14/mai",
+    "reading": "Is 53-55",
+    "year": 2
+  },
+  {
+    "date": "15/mai",
+    "reading": "Is 56-57",
+    "year": 2
+  },
+  {
+    "date": "16/mai",
+    "reading": "Is 58-59",
+    "year": 2
+  },
+  {
+    "date": "17/mai",
+    "reading": "Is 60-61",
+    "year": 2
+  },
+  {
+    "date": "18/mai",
+    "reading": "Is 62-64",
+    "year": 2
+  },
+  {
+    "date": "19/mai",
+    "reading": "Is 65-66",
+    "year": 2
+  },
+  {
+    "date": "20/mai",
+    "reading": "Jr 1-2",
+    "year": 2
+  },
+  {
+    "date": "21/mai",
+    "reading": "Jr 3-4",
+    "year": 2
+  },
+  {
+    "date": "22/mai",
+    "reading": "Jr 5-6",
+    "year": 2
+  },
+  {
+    "date": "23/mai",
+    "reading": "Jr 7-8",
+    "year": 2
+  },
+  {
+    "date": "24/mai",
+    "reading": "Jr 9-10",
+    "year": 2
+  },
+  {
+    "date": "25/mai",
+    "reading": "Jr 11-12",
+    "year": 2
+  },
+  {
+    "date": "26/mai",
+    "reading": "Jr 13-14",
+    "year": 2
+  },
+  {
+    "date": "27/mai",
+    "reading": "Jr 15-16",
+    "year": 2
+  },
+  {
+    "date": "28/mai",
+    "reading": "Jr 17-18",
+    "year": 2
+  },
+  {
+    "date": "29/mai",
+    "reading": "Jr 19-21",
+    "year": 2
+  },
+  {
+    "date": "30/mai",
+    "reading": "Jr 22",
+    "year": 2
+  },
+  {
+    "date": "31/mai",
+    "reading": "Jr 23",
+    "year": 2
+  },
+  {
+    "date": "01/jun",
+    "reading": "Jr 24-25",
+    "year": 2
+  },
+  {
+    "date": "02/jun",
+    "reading": "Jr 26-27",
+    "year": 2
+  },
+  {
+    "date": "03/jun",
+    "reading": "Jr 28-29",
+    "year": 2
+  },
+  {
+    "date": "04/jun",
+    "reading": "Jr 30",
+    "year": 2
+  },
+  {
+    "date": "05/jun",
+    "reading": "Jr 31",
+    "year": 2
+  },
+  {
+    "date": "06/jun",
+    "reading": "Jr 32",
+    "year": 2
+  },
+  {
+    "date": "07/jun",
+    "reading": "Jr 33-34",
+    "year": 2
+  },
+  {
+    "date": "08/jun",
+    "reading": "Jr 35-36",
+    "year": 2
+  },
+  {
+    "date": "09/jun",
+    "reading": "Jr 37-38",
+    "year": 2
+  },
+  {
+    "date": "10/jun",
+    "reading": "Jr 39-40",
+    "year": 2
+  },
+  {
+    "date": "11/jun",
+    "reading": "Jr 41-42",
+    "year": 2
+  },
+  {
+    "date": "12/jun",
+    "reading": "Jr 43-44",
+    "year": 2
+  },
+  {
+    "date": "13/jun",
+    "reading": "Jr 45-47",
+    "year": 2
+  },
+  {
+    "date": "14/jun",
+    "reading": "Jr 48",
+    "year": 2
+  },
+  {
+    "date": "15/jun",
+    "reading": "Jr 49",
+    "year": 2
+  },
+  {
+    "date": "16/jun",
+    "reading": "Jr 50",
+    "year": 2
+  },
+  {
+    "date": "17/jun",
+    "reading": "Jr 51: 1-32",
+    "year": 2
+  },
+  {
+    "date": "18/jun",
+    "reading": "Jr 51: 33-64",
+    "year": 2
+  },
+  {
+    "date": "19/jun",
+    "reading": "Jr 52",
+    "year": 2
+  },
+  {
+    "date": "20/jun",
+    "reading": "Lm 1-2",
+    "year": 2
+  },
+  {
+    "date": "21/jun",
+    "reading": "Lm 3: 1-33",
+    "year": 2
+  },
+  {
+    "date": "22/jun",
+    "reading": "Lm 3: 33-66",
+    "year": 2
+  },
+  {
+    "date": "23/jun",
+    "reading": "Lm 4-5",
+    "year": 2
+  },
+  {
+    "date": "24/jun",
+    "reading": "Ez 1-2",
+    "year": 2
+  },
+  {
+    "date": "25/jun",
+    "reading": "Ez 3-4",
+    "year": 2
+  },
+  {
+    "date": "26/jun",
+    "reading": "Ez 5-6",
+    "year": 2
+  },
+  {
+    "date": "27/jun",
+    "reading": "Ez 7-8",
+    "year": 2
+  },
+  {
+    "date": "28/jun",
+    "reading": "Ez 9-10",
+    "year": 2
+  },
+  {
+    "date": "29/jun",
+    "reading": "Ez 11-12",
+    "year": 2
+  },
+  {
+    "date": "30/jun",
+    "reading": "Ez 13-14",
+    "year": 2
+  },
+  {
+    "date": "01/jul",
+    "reading": "Ez 15, 16:1-15",
+    "year": 2
+  },
+  {
+    "date": "02/jul",
+    "reading": "Ez 16: 16-39",
+    "year": 2
+  },
+  {
+    "date": "03/jul",
+    "reading": "Ez 16: 40-63",
+    "year": 2
+  },
+  {
+    "date": "04/jul",
+    "reading": "Ez 17",
+    "year": 2
+  },
+  {
+    "date": "05/jul",
+    "reading": "Ez 18",
+    "year": 2
+  },
+  {
+    "date": "06/jul",
+    "reading": "Ez 19",
+    "year": 2
+  },
+  {
+    "date": "07/jul",
+    "reading": "Ez 20",
+    "year": 2
+  },
+  {
+    "date": "08/jul",
+    "reading": "Ez 21",
+    "year": 2
+  },
+  {
+    "date": "09/jul",
+    "reading": "Ez 22",
+    "year": 2
+  },
+  {
+    "date": "10/jul",
+    "reading": "Ez 23",
+    "year": 2
+  },
+  {
+    "date": "11/jul",
+    "reading": "Ez 24",
+    "year": 2
+  },
+  {
+    "date": "12/jul",
+    "reading": "Ez 25-26",
+    "year": 2
+  },
+  {
+    "date": "13/jul",
+    "reading": "Ez 27",
+    "year": 2
+  },
+  {
+    "date": "14/jul",
+    "reading": "Ez 28",
+    "year": 2
+  },
+  {
+    "date": "15/jul",
+    "reading": "Ez 29",
+    "year": 2
+  },
+  {
+    "date": "16/jul",
+    "reading": "Ez 30",
+    "year": 2
+  },
+  {
+    "date": "17/jul",
+    "reading": "Ez 31",
+    "year": 2
+  },
+  {
+    "date": "18/jul",
+    "reading": "Ez 32",
+    "year": 2
+  },
+  {
+    "date": "19/jul",
+    "reading": "Ez 33",
+    "year": 2
+  },
+  {
+    "date": "20/jul",
+    "reading": "Ez 34",
+    "year": 2
+  },
+  {
+    "date": "21/jul",
+    "reading": "Ez 35",
+    "year": 2
+  },
+  {
+    "date": "22/jul",
+    "reading": "Ez 36",
+    "year": 2
+  },
+  {
+    "date": "23/jul",
+    "reading": "Ez 37",
+    "year": 2
+  },
+  {
+    "date": "24/jul",
+    "reading": "Ez 38",
+    "year": 2
+  },
+  {
+    "date": "25/jul",
+    "reading": "Ez 39",
+    "year": 2
+  },
+  {
+    "date": "26/jul",
+    "reading": "Ez 40",
+    "year": 2
+  },
+  {
+    "date": "27/jul",
+    "reading": "Ez 41",
+    "year": 2
+  },
+  {
+    "date": "28/jul",
+    "reading": "Ez 42",
+    "year": 2
+  },
+  {
+    "date": "29/jul",
+    "reading": "Ez 43",
+    "year": 2
+  },
+  {
+    "date": "30/jul",
+    "reading": "Ez 44",
+    "year": 2
+  },
+  {
+    "date": "31/jul",
+    "reading": "Ez 45",
+    "year": 2
+  },
+  {
+    "date": "01/ago",
+    "reading": "Ez 46",
+    "year": 2
+  },
+  {
+    "date": "02/ago",
+    "reading": "Ez 47",
+    "year": 2
+  },
+  {
+    "date": "03/ago",
+    "reading": "Ez 48",
+    "year": 2
+  },
+  {
+    "date": "04/ago",
+    "reading": "Dn 1-2",
+    "year": 2
+  },
+  {
+    "date": "05/ago",
+    "reading": "Dn 3-4",
+    "year": 2
+  },
+  {
+    "date": "06/ago",
+    "reading": "Dn 5-6",
+    "year": 2
+  },
+  {
+    "date": "07/ago",
+    "reading": "Dn 7-8",
+    "year": 2
+  },
+  {
+    "date": "08/ago",
+    "reading": "Dn 9-10",
+    "year": 2
+  },
+  {
+    "date": "09/ago",
+    "reading": "Dn 11-12",
+    "year": 2
+  },
+  {
+    "date": "10/ago",
+    "reading": "Os 1-2",
+    "year": 2
+  },
+  {
+    "date": "11/ago",
+    "reading": "Os 3-5",
+    "year": 2
+  },
+  {
+    "date": "12/ago",
+    "reading": "Os 6-8",
+    "year": 2
+  },
+  {
+    "date": "13/ago",
+    "reading": "Os 9-11",
+    "year": 2
+  },
+  {
+    "date": "14/ago",
+    "reading": "Os 12-14",
+    "year": 2
+  },
+  {
+    "date": "15/ago",
+    "reading": "Jl 1",
+    "year": 2
+  },
+  {
+    "date": "16/ago",
+    "reading": "Jl 2",
+    "year": 2
+  },
+  {
+    "date": "17/ago",
+    "reading": "Jl 3",
+    "year": 2
+  },
+  {
+    "date": "18/ago",
+    "reading": "Am 1-3",
+    "year": 2
+  },
+  {
+    "date": "19/ago",
+    "reading": "Am 4-6",
+    "year": 2
+  },
+  {
+    "date": "20/ago",
+    "reading": "Am 7-9",
+    "year": 2
+  },
+  {
+    "date": "21/ago",
+    "reading": "Obadias",
+    "year": 2
+  },
+  {
+    "date": "22/ago",
+    "reading": "Jonas 1-2",
+    "year": 2
+  },
+  {
+    "date": "23/ago",
+    "reading": "Jonas 3-4",
+    "year": 2
+  },
+  {
+    "date": "24/ago",
+    "reading": "Mq 1-2",
+    "year": 2
+  },
+  {
+    "date": "25/ago",
+    "reading": "Mq 3-4",
+    "year": 2
+  },
+  {
+    "date": "26/ago",
+    "reading": "Mq 5-6",
+    "year": 2
+  },
+  {
+    "date": "27/ago",
+    "reading": "Mq 7",
+    "year": 2
+  },
+  {
+    "date": "28/ago",
+    "reading": "Naum",
+    "year": 2
+  },
+  {
+    "date": "29/ago",
+    "reading": "Habacuque",
+    "year": 2
+  },
+  {
+    "date": "30/ago",
+    "reading": "Sofonias",
+    "year": 2
+  },
+  {
+    "date": "31/ago",
+    "reading": "Ageu",
+    "year": 2
+  },
+  {
+    "date": "01/set",
+    "reading": "Zc 1-3",
+    "year": 2
+  },
+  {
+    "date": "02/set",
+    "reading": "Zc 4-6",
+    "year": 2
+  },
+  {
+    "date": "03/set",
+    "reading": "Zc 7-8",
+    "year": 2
+  },
+  {
+    "date": "04/set",
+    "reading": "Zc 9-11",
+    "year": 2
+  },
+  {
+    "date": "05/set",
+    "reading": "Zc 12-14",
+    "year": 2
+  },
+  {
+    "date": "06/set",
+    "reading": "Ml 1-2",
+    "year": 2
+  },
+  {
+    "date": "07/set",
+    "reading": "Ml 3-4",
+    "year": 2
+  },
+  {
+    "date": "08/set",
+    "reading": "At 1-2",
+    "year": 2
+  },
+  {
+    "date": "09/set",
+    "reading": "At 3-4",
+    "year": 2
+  },
+  {
+    "date": "10/set",
+    "reading": "At 5-6",
+    "year": 2
+  },
+  {
+    "date": "11/set",
+    "reading": "At 7",
+    "year": 2
+  },
+  {
+    "date": "12/set",
+    "reading": "At 8",
+    "year": 2
+  },
+  {
+    "date": "13/set",
+    "reading": "At 9",
+    "year": 2
+  },
+  {
+    "date": "14/set",
+    "reading": "At 10",
+    "year": 2
+  },
+  {
+    "date": "15/set",
+    "reading": "At 11-12",
+    "year": 2
+  },
+  {
+    "date": "16/set",
+    "reading": "At 13",
+    "year": 2
+  },
+  {
+    "date": "17/set",
+    "reading": "At 14-15",
+    "year": 2
+  },
+  {
+    "date": "18/set",
+    "reading": "At 16-17",
+    "year": 2
+  },
+  {
+    "date": "19/set",
+    "reading": "At 18-19",
+    "year": 2
+  },
+  {
+    "date": "20/set",
+    "reading": "At 20-21",
+    "year": 2
+  },
+  {
+    "date": "21/set",
+    "reading": "At 22-24",
+    "year": 2
+  },
+  {
+    "date": "22/set",
+    "reading": "At 25-26",
+    "year": 2
+  },
+  {
+    "date": "23/set",
+    "reading": "At 27-28",
+    "year": 2
+  },
+  {
+    "date": "24/set",
+    "reading": "Rm 1-2",
+    "year": 2
+  },
+  {
+    "date": "25/set",
+    "reading": "Rm 3-4",
+    "year": 2
+  },
+  {
+    "date": "26/set",
+    "reading": "Rm 5-6",
+    "year": 2
+  },
+  {
+    "date": "27/set",
+    "reading": "Rm 7-8",
+    "year": 2
+  },
+  {
+    "date": "28/set",
+    "reading": "Rm 9-10",
+    "year": 2
+  },
+  {
+    "date": "29/set",
+    "reading": "Rm 11-12",
+    "year": 2
+  },
+  {
+    "date": "30/set",
+    "reading": "Rm 13-14",
+    "year": 2
+  },
+  {
+    "date": "01/out",
+    "reading": "Rm 15-16",
+    "year": 2
+  },
+  {
+    "date": "02/out",
+    "reading": "1Co 1-2",
+    "year": 2
+  },
+  {
+    "date": "03/out",
+    "reading": "1Co 3-4",
+    "year": 2
+  },
+  {
+    "date": "04/out",
+    "reading": "1Co 4-6",
+    "year": 2
+  },
+  {
+    "date": "05/out",
+    "reading": "1Co 7-8",
+    "year": 2
+  },
+  {
+    "date": "06/out",
+    "reading": "1Co 9-10",
+    "year": 2
+  },
+  {
+    "date": "07/out",
+    "reading": "1Co 11-12",
+    "year": 2
+  },
+  {
+    "date": "08/out",
+    "reading": "1Co 13-14",
+    "year": 2
+  },
+  {
+    "date": "09/out",
+    "reading": "1Co 15-16",
+    "year": 2
+  },
+  {
+    "date": "10/out",
+    "reading": "2 Co 1-2",
+    "year": 2
+  },
+  {
+    "date": "11/out",
+    "reading": "2 Co 3-5",
+    "year": 2
+  },
+  {
+    "date": "12/out",
+    "reading": "2Co 6-7",
+    "year": 2
+  },
+  {
+    "date": "13/out",
+    "reading": "2Co 8-9",
+    "year": 2
+  },
+  {
+    "date": "14/out",
+    "reading": "2 Co 10-11",
+    "year": 2
+  },
+  {
+    "date": "15/out",
+    "reading": "2 Co 12-13",
+    "year": 2
+  },
+  {
+    "date": "16/out",
+    "reading": "Gl 1-2",
+    "year": 2
+  },
+  {
+    "date": "17/out",
+    "reading": "Gl 3-4",
+    "year": 2
+  },
+  {
+    "date": "18/out",
+    "reading": "Gl 5-6",
+    "year": 2
+  },
+  {
+    "date": "19/out",
+    "reading": "Ef 1-2",
+    "year": 2
+  },
+  {
+    "date": "20/out",
+    "reading": "Ef 3-4",
+    "year": 2
+  },
+  {
+    "date": "21/out",
+    "reading": "Ef 5-6",
+    "year": 2
+  },
+  {
+    "date": "22/out",
+    "reading": "Fp 1-2",
+    "year": 2
+  },
+  {
+    "date": "23/out",
+    "reading": "Fp 3-4",
+    "year": 2
+  },
+  {
+    "date": "24/out",
+    "reading": "Cl 1-2",
+    "year": 2
+  },
+  {
+    "date": "25/out",
+    "reading": "Cl 3-4",
+    "year": 2
+  },
+  {
+    "date": "26/out",
+    "reading": "1Ts 1-3",
+    "year": 2
+  },
+  {
+    "date": "27/out",
+    "reading": "1Ts 4-5",
+    "year": 2
+  },
+  {
+    "date": "28/out",
+    "reading": "2Ts",
+    "year": 2
+  },
+  {
+    "date": "29/out",
+    "reading": "1Tm 1-2",
+    "year": 2
+  },
+  {
+    "date": "30/out",
+    "reading": "1Tm 3-4",
+    "year": 2
+  },
+  {
+    "date": "31/out",
+    "reading": "1Tm 5-6",
+    "year": 2
+  },
+  {
+    "date": "01/nov",
+    "reading": "2Tm 1-2",
+    "year": 2
+  },
+  {
+    "date": "02/nov",
+    "reading": "2Tm 3-4",
+    "year": 2
+  },
+  {
+    "date": "03/nov",
+    "reading": "Tito",
+    "year": 2
+  },
+  {
+    "date": "04/nov",
+    "reading": "Filemon",
+    "year": 2
+  },
+  {
+    "date": "05/nov",
+    "reading": "Hb 1-2",
+    "year": 2
+  },
+  {
+    "date": "06/nov",
+    "reading": "Hb 3-4",
+    "year": 2
+  },
+  {
+    "date": "07/nov",
+    "reading": "Hb 5-6",
+    "year": 2
+  },
+  {
+    "date": "08/nov",
+    "reading": "Hb 7-8",
+    "year": 2
+  },
+  {
+    "date": "09/nov",
+    "reading": "Hb 9-10",
+    "year": 2
+  },
+  {
+    "date": "10/nov",
+    "reading": "Hb 11",
+    "year": 2
+  },
+  {
+    "date": "11/nov",
+    "reading": "Hb 12-13",
+    "year": 2
+  },
+  {
+    "date": "12/nov",
+    "reading": "Tg 1-2",
+    "year": 2
+  },
+  {
+    "date": "13/nov",
+    "reading": "Tg 3-5",
+    "year": 2
+  },
+  {
+    "date": "14/nov",
+    "reading": "1Pe 1-2",
+    "year": 2
+  },
+  {
+    "date": "15/nov",
+    "reading": "1Pe 3-5",
+    "year": 2
+  },
+  {
+    "date": "16/nov",
+    "reading": "2 Pe",
+    "year": 2
+  },
+  {
+    "date": "17/nov",
+    "reading": "1Jo 1-2",
+    "year": 2
+  },
+  {
+    "date": "18/nov",
+    "reading": "1Jo 3-5",
+    "year": 2
+  },
+  {
+    "date": "19/nov",
+    "reading": "2Jo & 3Jo",
+    "year": 2
+  },
+  {
+    "date": "20/nov",
+    "reading": "Judas",
+    "year": 2
+  },
+  {
+    "date": "21/nov",
+    "reading": "Ap 1-2",
+    "year": 2
+  },
+  {
+    "date": "22/nov",
+    "reading": "Ap 3-4",
+    "year": 2
+  },
+  {
+    "date": "23/nov",
+    "reading": "Ap 5-7",
+    "year": 2
+  },
+  {
+    "date": "24/nov",
+    "reading": "Ap 8-9",
+    "year": 2
+  },
+  {
+    "date": "25/nov",
+    "reading": "Ap 10-11",
+    "year": 2
+  },
+  {
+    "date": "26/nov",
+    "reading": "Ap 12-13",
+    "year": 2
+  },
+  {
+    "date": "27/nov",
+    "reading": "Ap 14-15",
+    "year": 2
+  },
+  {
+    "date": "28/nov",
+    "reading": "Ap 16-17",
+    "year": 2
+  },
+  {
+    "date": "29/nov",
+    "reading": "Ap 18-19",
+    "year": 2
+  },
+  {
+    "date": "30/nov",
+    "reading": "Ap 20-21",
+    "year": 2
+  }
+]
