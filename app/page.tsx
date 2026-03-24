@@ -12,7 +12,7 @@ import {
   Eye,
 } from "lucide-react";
 import { db } from "@/firebase";
-import { doc, onSnapshot, setDoc, getDoc } from "firebase/firestore";
+import { doc, onSnapshot, setDoc, getDoc, updateDoc } from "firebase/firestore";
 import Image from "next/image";
 
 type PlanEntry = {
@@ -165,27 +165,33 @@ export default function Home() {
 
     try {
       const docRef = doc(db, "progress", "shared");
-      await setDoc(
-        docRef,
-        {
-          checks: {
-            [key]: {
-              [color]: newValue,
-            },
+      // Usa updateDoc com dot notation para garantir atualização atômica e evitar que sobrescreva outros campos
+      await updateDoc(docRef, {
+        [`checks.${key}.${color}`]: newValue,
+      });
+    } catch (error: any) {
+      // Se o documento ainda não existir, o updateDoc falhará. Neste caso, o criamos com setDoc com segurança.
+      if (
+        error?.code === "not-found" ||
+        error?.message?.includes("No document to update")
+      ) {
+        const docRef = doc(db, "progress", "shared");
+        await setDoc(
+          docRef,
+          { checks: { [key]: { [color]: newValue } } },
+          { merge: true },
+        );
+      } else {
+        console.error("Failed to update progress", error);
+        // Revert optimistic update on error
+        setProgress((prev) => ({
+          ...prev,
+          [key]: {
+            ...prev[key],
+            [color]: !newValue,
           },
-        },
-        { merge: true },
-      );
-    } catch (error) {
-      console.error("Failed to update progress", error);
-      // Revert optimistic update on error
-      setProgress((prev) => ({
-        ...prev,
-        [key]: {
-          ...prev[key],
-          [color]: !newValue,
-        },
-      }));
+        }));
+      }
     }
   };
 
