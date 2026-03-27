@@ -1,6 +1,6 @@
 import { initializeApp, getApps, getApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-import { getFirestore } from "firebase/firestore";
+import { getFirestore, enableIndexedDbPersistence } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -19,10 +19,28 @@ const app =
       ? getApp()
       : null;
 
-export const db = app
+const db = app
   ? getFirestore(
       app,
       process.env.NEXT_PUBLIC_FIRESTORE_DATABASE_ID || "(default)",
     )
   : (null as any);
-export const auth = app ? getAuth(app) : (null as any);
+const auth = app ? getAuth(app) : (null as any);
+
+// Habilita a persistência offline apenas no navegador (client-side)
+// O try/catch previne erros durante o hot-reload em desenvolvimento.
+if (db && typeof window !== "undefined") {
+  try {
+    enableIndexedDbPersistence(db).catch((err) => {
+      if (err.code === "failed-precondition") {
+        // Geralmente acontece com múltiplas abas abertas. A persistência só é ativada na primeira.
+      } else if (err.code === "unimplemented") {
+        console.warn("Navegador não suporta persistência offline.");
+      }
+    });
+  } catch (err: any) {
+    // Ignora o erro que acontece em hot-reloads no modo de desenvolvimento.
+  }
+}
+
+export { db, auth };
