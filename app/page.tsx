@@ -89,35 +89,44 @@ export default function Home() {
     setLoadingData(true);
     const docRef = doc(db, "progress", "shared");
 
-    // Test connection first
-    getDoc(docRef).catch((error) => {
-      if (
-        error instanceof Error &&
-        error.message.includes("the client is offline")
-      ) {
-        console.error("Please check your Firebase configuration.");
-      }
-    });
-
+    // Anexa um listener para atualizações em tempo real.
+    // Isso também servirá dados do cache quando estiver offline.
     const unsubscribe = onSnapshot(
       docRef,
       (snapshot) => {
         if (snapshot.exists()) {
           const data = snapshot.data();
-          if (data.checks) {
-            setProgress(data.checks);
-          }
-        } else {
-          // Initialize if it doesn't exist
-          setDoc(docRef, { checks: {} }, { merge: true });
+          // Define o progresso a partir do snapshot, usando um objeto vazio como fallback se 'checks' não existir
+          setProgress(data.checks || {});
         }
+        // Se o snapshot não existir, não fazemos nada aqui.
+        // A chamada getDoc() abaixo cuidará da inicialização segura.
         setLoadingData(false);
       },
       (error) => {
-        console.error("Firestore Error: ", error);
+        console.error("Erro no listener do Firestore: ", error);
         setLoadingData(false);
       },
     );
+
+    // Separadamente, verifica a existência do documento para realizar uma inicialização segura e única.
+    // getDoc() tenta buscar do servidor e falhará se estiver offline, prevenindo a escrita perigosa.
+    getDoc(docRef)
+      .then((snapshot) => {
+        if (!snapshot.exists()) {
+          // O documento realmente não existe no servidor, então podemos criá-lo com segurança.
+          console.log(
+            "Documento não encontrado. Inicializando progresso 'shared'...",
+          );
+          setDoc(docRef, { checks: {} });
+        }
+      })
+      .catch((error) => {
+        // Este erro é esperado quando offline. Não precisamos fazer nada.
+        console.warn(
+          "Não foi possível verificar a existência do documento, possivelmente offline.",
+        );
+      });
 
     return () => unsubscribe();
   }, []);
